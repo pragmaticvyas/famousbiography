@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<famouspeople>
+  <famous>
+    <famousid>1</famousid>
+    <name>Amitabh Bachan</name>
+    <details>The Salton Sea is saltier than the Pacific,
+      an unusual feat for inland body of water. And even though its salinity has risen over the years, due in part to lack of outflows and pollution from agricultural runoff, it has attracted a small, but dedicated population. The sea itself offers recreational opportunities including boating, camping, off-roading, hiking, use of personal watercraft, photography and bird watching. The sea has been termed a "crown jewel of avian biodiversity," being a major resting stop on the Pacific Flyway, a migratory path for birds. 2 Days Adrift the Salton Sea includes two nights accommodations at the Bombay Beach Inn, boat rental at the Salton City Harbor, and a guided fishing tour.</details>
+    <image>amitabh</image>
+  </famous>
+  <famous>
+    <famousid>2</famousid>
+    <name>A Week of Wine</name>
+    <details>Immerse yourself in the culture and
+      lifestyle of a California winery. Spend 5 days in your private guest villa at the Stockbridge Winery, located in scenic Sonoma. You'll spend your days wandering the vineyards, touring the presses and cellars, and assisting staff in making America's favorite wine. Enjoy Tuscan-style meals served al fresco, overlooking the gorgeous countryside. Day trips include dinner in Sausalito, hiking in the redwood forests, and lunch in downtown San Francisco.</details>
+    <image>cvraman</image>
+  </famous>
+  <famous>
+    <famousid>3</famousid>
+    <name>Amgen Tour of California Special</name>
+    <details>The AMGEN Tour of California is the largest
+      cycling event in the US, over 750 miles and includes cycling world champions, Tour de France competitors, and Olympic athletes. It's an 8-leg tour, designed to mimic the various conditions in the Tour de Trance, and Explore California has the unique pleasure of being able to offer 50 of our members spots behind the peloton, or main group of racers, on two legs of the two. This is a special, one-time only offer. Customers should be in physical and mental shape to complete this two-week ride. Be prepared to complete a detailed questionnaire about skill level and any existing health problems.</details>
+    <image>ratantata</image>
+  </famous>
+  <famous>
+    <famousid>4</famousid>
+    <name>Avila Beach Hot Springs</name>
+    <details>Chumash have occupied Avila Beach for centuries,
+      but it wasn't until the late 19th century that the rest of California realized its ideal climate, proximity to the ocean and artesian springs made Avila Beach an ideal resort town. The hot springs in Avila are really unique, creating pools that hover at a natural 104 degrees, which draws aficionados from far and wide.  You'll stay at the historic Avila Hot Springs Resort, situated between oak-covered foothills that keep the morning fog away and make a natural year round air conditioner, which will enhance a nice morning, afternoon, or evening swim. This package include a two night stay in a private cabin above the springs, and a 3 day pass to the fresh water pool and 400 sq feet hot mineral pool. Optional day trips include two hour kayaking tours (we love the Cave Expedition) from Central Coast Kayaks and docent-led trips from the Point San Luis Lighthouse down the Pechos Trail.</details>
+    <image>ray</image>
+  </famous>
+</famouspeople>
